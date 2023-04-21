@@ -2,7 +2,7 @@
 
 Download sidequest advanced:
 
-https://objects.githubusercontent.com/github-production-release-asset-2e65be/254852798/64b96ab3-f2d5-4a6a-a6f7-d115b476a668?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230407%2Fus-east-1%2Fs3%2Faws4\_request&X-Amz-Date=20230407T145923Z&X-Amz-Expires=300&X-Amz-Signature=bc8bbd23f2067aaf03c4d8268b10882f65b1e4815efa8751414201120f8e2377&X-Amz-SignedHeaders=host&actor\_id=0&key\_id=0&repo\_id=254852798&response-content-disposition=attachment%3B%20filename%3DSideQuest-Setup-0.10.33-x64-win.exe&response-content-type=application%2Foctet-stream
+FIND IT YOURSELF
 
 Install sidequest advanced
 
