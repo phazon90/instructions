@@ -78,17 +78,18 @@ When trying to launch Beat Saber after modding it, you will likely get the Resto
 
 # Step 6: Optional Setup Multiplayer and LeaderBoards
 
-### Download following 3 tool files:
+1. Download following 3 tool files:
+
 https://github.com/EnderdracheLP/MultiplayerCore.Quest/releases/download/1.4.0/MultiplayerCore_1.4.0.qmod
 https://github.com/BeatTogether/BeatTogether.Quest/releases/download/v1.8.0/BeatTogether_v1.8.0.qmod
 https://github.com/BeatLeader/beatleader-qmod/releases/download/v0.5.8/BeatLeader_1_28_0.qmod
 
-### In quest 2 open BMBF app. Go to tools tab
+2. In quest 2 open BMBF app. Go to tools tab
 
-### In upper right take IP:PORT and go to that page on your COMPUTER browser, leave quest 2 on face and on
+3. In upper right take IP:PORT and go to that page on your COMPUTER browser, leave quest 2 on face and on
 
-### On computer, drag 3 downloads to the browser page 1 at a time. You should see queued messages for all 3 appear in the quest 2
+4. On computer, drag 3 downloads to the browser page 1 at a time. You should see queued messages for all 3 appear in the quest 2
 
-### Click "Sync to beat saber" in BMBF app on quest 2
+5. Click "Sync to beat saber" in BMBF app on quest 2
 
-### Once complete, launch Beat Saber. Go to leaderboards and setup account (name will be what we see, so use your name or gamertag or something)
+6. Once complete, launch Beat Saber. Go to leaderboards and setup account (name will be what we see, so use your name or gamertag or something)
