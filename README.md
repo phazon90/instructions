@@ -1,8 +1,8 @@
 # Step 1: Install sidequest advanced and backup scores/data for BS
 
-Download sidequest advanced:
+Download sidequest ADVANCED:
 
-FIND IT YOURSELF
+https://sidequestvr.com/setup-howto
 
 Install sidequest advanced
 
