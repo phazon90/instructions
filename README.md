@@ -56,17 +56,18 @@ No to mod before install
 
 Leave quest connected
 
-# Step 3 for Quest OS v51 until BMBF has been updated
+# Step 3: For Quest OS v51 until BMBF has been updated
 Follow instructions here
 https://www.reddit.com/r/OculusQuest/comments/12ixcol/comment/jhwgjx1/
 
-# Step 4 Install extra mods in Quest App Switcher after you modded BeatSaber
+# Step 4: Install extra mods in Quest App Switcher after you modded BeatSaber
 
 MultiplayerCore
 
 BeatTogether
 
 BeatLeader
+
 
 # DEPRECATED FOR NOW
 
