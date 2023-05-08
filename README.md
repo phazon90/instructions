@@ -61,8 +61,11 @@ Follow instructions here
 https://www.reddit.com/r/OculusQuest/comments/12ixcol/comment/jhwgjx1/
 
 # Step 4 Install extra mods in Quest App Switcher after you modded BeatSaber
+
 MultiplayerCore
+
 BeatTogether
+
 BeatLeader
 
 # DEPRECATED FOR NOW
