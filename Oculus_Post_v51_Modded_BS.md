@@ -20,7 +20,7 @@ Search in SideQuest store for "QAVS"
 
 Install to Oculus
 
-***1\.28.0\_4124311467***
+Complete next steps on Oculus
 
 # Step 4: Downgrade Beat Saber using QAVS app
 
